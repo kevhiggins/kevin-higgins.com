@@ -1,0 +1,17 @@
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+Options +FollowSymLinks
+IndexIgnore */*
+RewriteEngine on
+#RewriteLog "/home/kevin/rewrite.log"
+#RewriteLogLeve 3
+
+# if a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# otherwise forward it to index.php
+RewriteRule . index.php
