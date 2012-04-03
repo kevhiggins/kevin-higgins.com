@@ -33,8 +33,8 @@
 		array(
 			'class'=>'bootstrap.widgets.BootMenu',
 			'items'=>array(
-				array('label'=>'About', 'url'=>'#'),
 				array('label'=>'Projects', 'url'=>'/project'),
+				array('label'=>'About', 'url'=>'#'),
 				/*
 				array('label'=>'Configure', 'url'=>'#', 'items'=>array(
 					array('label'=>'Default Settings', 'url'=>'#'),
