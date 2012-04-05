@@ -34,7 +34,8 @@
 			'class'=>'bootstrap.widgets.BootMenu',
 			'items'=>array(
 				array('label'=>'Projects', 'url'=>'/project'),
-				array('label'=>'About', 'url'=>'#'),
+				array('label'=>'About', 'url'=>'/site/about'),
+				array('label'=>'Resume', 'url'=>'/site/resume'),
 				/*
 				array('label'=>'Configure', 'url'=>'#', 'items'=>array(
 					array('label'=>'Default Settings', 'url'=>'#'),

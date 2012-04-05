@@ -1258,3 +1258,506 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/favicon.ico
 ---
+2012/04/04 19:47:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 19:51:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 19:54:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 19:56:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:01:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:01:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:02:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:07:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:07:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:08:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:09:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:10:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:10:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:11:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:15:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:16:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:18:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:22:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:24:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:26:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:27:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:28:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:29:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 20:33:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:24:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:24:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "about".' in /var/www/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('about')
+#1 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('about')
+#2 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('site/about')
+#3 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/about
+HTTP_REFERER=http://kevin-higgins.net/project
+---
+2012/04/04 21:24:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:25:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "pages".' in /var/www/yii-1.1.10.r3566/framework/web/CController.php:484
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CController.php(271): CController->missingAction('pages')
+#1 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('pages')
+#2 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('site/pages/abou...')
+#3 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#4 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/site/pages/about
+---
+2012/04/04 21:25:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:27:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:55:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:55:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:55:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:55:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:55:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:56:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:56:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:56:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:56:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:56:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:58:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:58:52 [error] [exception.CException] exception 'CException' with message 'The asset "/var/www/kevin-higgins.com/protected/assets/KevinHigginsResume.jpg" to be published does not exist.' in /var/www/yii-1.1.10.r3566/framework/web/CAssetManager.php:239
+Stack trace:
+#0 /var/www/kevin-higgins.com/protected/controllers/SiteController.php(118): CAssetManager->publish('/var/www/kevin-...')
+#1 /var/www/yii-1.1.10.r3566/framework/web/actions/CInlineAction.php(50): SiteController->actionResume()
+#2 /var/www/yii-1.1.10.r3566/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#3 /var/www/yii-1.1.10.r3566/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#4 /var/www/yii-1.1.10.r3566/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): CController->run('resume')
+#6 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('site/resume')
+#7 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#8 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/site/resume
+HTTP_REFERER=http://kevin-higgins.net/site/about
+---
+2012/04/04 21:58:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:59:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:59:09 [error] [php] Undefined variable: resome (/var/www/kevin-higgins.com/protected/controllers/SiteController.php:119)
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CController.php(287): SiteController->runAction()
+#1 /var/www/yii-1.1.10.r3566/framework/web/CController.php(266): SiteController->runActionWithFilters()
+#2 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(276): SiteController->run()
+#3 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController()
+#4 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#5 /var/www/kevin-higgins.com/index.php(13): CWebApplication->run()
+REQUEST_URI=/site/resume
+in /var/www/kevin-higgins.com/protected/controllers/SiteController.php (119)
+in /var/www/kevin-higgins.com/index.php (13)
+2012/04/04 21:59:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:59:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:59:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:59:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 21:59:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 22:04:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 22:06:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 22:06:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 22:09:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 22:09:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 22:09:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 22:09:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/04/04 22:10:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/yii-1.1.10.r3566/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii-1.1.10.r3566/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/kevin-higgins.com/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---

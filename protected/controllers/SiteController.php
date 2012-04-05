@@ -101,4 +101,21 @@ class SiteController extends Controller
 		Yii::app()->user->logout();
 		$this->redirect(Yii::app()->homeUrl);
 	}
+	
+	/**
+	 * Render the about page.
+	 */
+	public function actionAbout()
+	{
+		$this->render('about');
+	}
+	
+	/**
+	 * Serve resume.
+	 */
+	public function actionResume()
+	{
+		$resume = Yii::app()->assetManager->publish(Yii::getPathOfAlias("application.assets")."/KevinHigginsResume.pdf");
+		$this->redirect($resume);
+	}
 }
